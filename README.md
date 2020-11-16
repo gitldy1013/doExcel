@@ -13,8 +13,10 @@
 if __name__ == '__main__':
 -   filename = "20201112.xls"
    #修改为自己的文件名
-+   filename = "20201112.xls"
++   filename = "[自己的文件名]"
     extract(filename)
     write_excel(list_data,filename)
     print('更新文件成功')
 ```
+
+## 专门给你写的，瞅啥呢？还不搞起来~
